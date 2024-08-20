@@ -1,0 +1,14 @@
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.AssemblyInfoInputs.cache
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.AssemblyInfo.cs
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.csproj.CoreCompileInputs.cache
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\bin\Debug\net8.0\AsyncProgram.exe
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\bin\Debug\net8.0\AsyncProgram.deps.json
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\bin\Debug\net8.0\AsyncProgram.runtimeconfig.json
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\bin\Debug\net8.0\AsyncProgram.dll
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\bin\Debug\net8.0\AsyncProgram.pdb
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.dll
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\refint\AsyncProgram.dll
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.pdb
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.genruntimeconfig.cache
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\ref\AsyncProgram.dll
