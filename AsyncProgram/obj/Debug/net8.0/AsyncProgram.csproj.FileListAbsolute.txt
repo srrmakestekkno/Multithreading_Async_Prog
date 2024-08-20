@@ -12,3 +12,4 @@ C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous
 C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.pdb
 C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.genruntimeconfig.cache
 C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\ref\AsyncProgram.dll
+C:\Users\srr00\Documents\Utvikling\Backend\Udemy\Multithreading_and_Asynchronous_programming\AsyncProgram\obj\Debug\net8.0\AsyncProgram.sourcelink.json
